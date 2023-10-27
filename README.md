@@ -2,7 +2,7 @@
 
 
 ## Author
-- **Name:** :ghost: Sawan Chakraborty :ghost:
+- **Name:**  Sawan Chakraborty :ghost:
 
 
 ## Project Description
