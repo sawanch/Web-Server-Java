@@ -2,7 +2,7 @@
 
 
 ## Author
-- **Name:** Sawan Chakraborty
+- **Name:** :ghost: Sawan Chakraborty :ghost:
 
 
 ## Project Description
@@ -21,19 +21,19 @@ Once the Maven build process is complete, proceed to the next step. Navigate to 
 
 To run the jar, use the following command in the command line, specifying the document root and port:
 
-	```bash
+	
 	java -jar WebServer.jar -document_root /path/to/document/root -port 8484
-	```
+	
 For example:
 
-	```bash
+	
 	java -jar WebServer.jar -document_root /path/to/document-root -port 8484
-	```
+	
 	
 ##Files Attached
 
-Readme.txt
-screenshots
-webserver-project.zip
+Readme.txt <br>
+screenshots <br>
+webserver-project.zip <br>
 PA1_COEN_317_Sawan_Chakraborty_Report.pdf
 
