@@ -1,0 +1,1 @@
+Welcome to the Distributed Systems project! This text file serves as a test message for our web server. If you're able to see this, it indicates that our server is up and running smoothly, meeting all your specifications.

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: . lib/log4j-api-2.14.0.jar lib/log4j-core-2.14.0.jar lib/log
+ 4j-slf4j-impl-2.14.0.jar lib/slf4j-api-1.7.25.jar
+Main-Class: com.scu.WebServerMain
+Created-By: Maven Integration for Eclipse
+
